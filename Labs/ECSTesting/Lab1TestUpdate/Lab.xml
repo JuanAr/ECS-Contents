@@ -14,9 +14,8 @@
   </Author>
   <Description>This is the Lab1Test - Update 1.</Description>  
   <Document ConversionType="Html">.\Lab.docx</Document>
-  <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
   <Title>Lab1Test</Title>
   <Version>2.0</Version>
   <Source>.\Source</Source>
-  <DependencyChecker ScriptsFolder="..\..\..\Packages\WAZplatTrainingKit\Assets\DependencyChecker\scripts">.\Source\Setup\Dependencies.dep</DependencyChecker>
+  <DependencyChecker>.\Source\Setup\Dependencies.dep</DependencyChecker>
 </Lab>
